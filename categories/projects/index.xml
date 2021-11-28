@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projects on Aline R. de Carvalho</title>
+    <link>https://ardcarvalho.github.io/categories/projects/</link>
+    <description>Recent content in projects on Aline R. de Carvalho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ardcarvalho.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detection of microplastics in freshwater ecosystems</title>
+      <link>https://ardcarvalho.github.io/post/plastigar/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ardcarvalho.github.io/post/plastigar/</guid>
+      <description>&lt;p&gt;At PLASTIGAR project, a collaboration between &lt;a href=&#34;http://imrcp.ups-tlse.fr/&#34;&gt;IMRCP&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://edb.cnrs.fr/&#34;&gt;EDB&lt;/a&gt; laboratories from Paul Sabatier University (Toulouse, France), we were interested in understanding the drivers of the spatial and temporal variability of microplastic pollution. Also, how this pollution is affected by a flood episode and the ecological determinants of microplastic ingestion by aquatic organisms.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Developpment of analytical py-GC-MS</title>
+      <link>https://ardcarvalho.github.io/post/sensaas/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ardcarvalho.github.io/post/sensaas/</guid>
+      <description>&lt;p&gt;At Burgundy University (Dijon, France), &lt;a href=&#34;https://biogeosciences.u-bourgogne.fr/&#34;&gt;Biogeosciences laboratory&lt;/a&gt;), as postdoctoral researcher in SENSAAS (SENSors and Analyses for AquiferS) transdisciplinary research consortium: developing analytical methodologies for the characterization of natural organic matter and of microplastics in soil and water by Pyrolysis GC/MS, isotopic analysis, NMR relaxometry, LC-MS-MS&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zebrafish water tank model (ZWT): a tool for human-like metabolism studies</title>
+      <link>https://ardcarvalho.github.io/post/zwt/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ardcarvalho.github.io/post/zwt/</guid>
+      <description>&lt;p&gt;Zebrafish (&lt;em&gt;Danio rerio&lt;/em&gt;) water tank (ZWT) approach was investigated as an alternative model for metabolism studies, based on six different experiments with four model compounds. Also, we were interested on the impact of steroid hormones on the endogenous metabolism of zebrafish. We discuss the appropriate conditions, merits, and relevant limitations to conduct ZWT experiments for the investigation of drug metabolism.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
